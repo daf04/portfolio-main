@@ -19,9 +19,9 @@
     🔹
     <a href="https://www.linkedin.com/in/aldrich-daffa-zalfansyah/">Hiring Me</a>
     🔹
-    <a href="https://www.instagram.com/aldrchdapaz">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://www.instagram.com/aldrchdapaz">Report Bug</a>
     🔹
-    <a href="https://www.instagram.com/aldrchdapaz">Request Feature</a>
+    <a href="https://www.instagram.com/aldrchdapaz">Request Feature</a> &nbsp; &nbsp;
 </h3>
 
 ## Built With
