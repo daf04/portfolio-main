@@ -1,0 +1,51 @@
+[
+  {
+    "role": "Aviation Security",
+    "organisation": "PT. Angkasa Pura II",
+    "status": "Training",
+    "startDate": "Oct, 2018",
+    "endDate": "Apr, 2019",
+    "experiences": ["Inspection of passenger documents and passenger baggage.", "Handling of prohibited items.", "Special handling of passengers."],
+    "imageSrc": "history/ap2Logo.png"
+  },
+  {
+    "role": "Warehouse Staff",
+    "organisation": "PT. Global Jet Express",
+    "status": "Contract",
+    "startDate": "Feb, 2021",
+    "endDate": "Oct, 2021",
+    "experiences": ["Supervise the receipt and processing of incoming stock, select orders from warehouse stock and manage them.", "Organize and ensure the goods distribution process runs smoothly."],
+    "imageSrc": "history/jntLogo.png"
+  },
+  {
+    "role": "Production Operator",
+    "organisation": "PT. Paragon Technology And Innovation",
+    "status": "Daily Worker",
+    "startDate": "Nov, 2022",
+    "endDate": "Jan, 2023",
+    "experiences": [
+      "Operate equipment or machines to assist in the manufacturing, assembly, packaging, and other steps in the production line."
+    ],
+    "imageSrc": "history/paragonLogo.png"
+  },
+  {
+    "role": "Web Developer",
+    "organisation": "CV. Aquarias",
+    "status": "Part Time",
+    "startDate": "Mar, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on Control Panel.", "Development and maintenance of company profile websites."],
+    "imageSrc": "history/aquariasLogo.png"
+  },
+  {
+    "role": "Programmer",
+    "organisation": "Dinas Komunikasi Informasi Dan Statistika",
+    "status": "Contract",
+    "startDate": "Jul, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Create and design applications from start (concept) to completion according to needs and requests.", "Unifying databases in the framework of one data, and managing the use of data.", "Reporting work achievements at any time or providing a monitoring system for progress and work achievements based on issues or applications (project management system)."
+    ],
+    "imageSrc": "history/dkijakartaLogo.png"
+  }
+]

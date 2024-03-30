@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Ganesha Pool",
+    "imageSrc": "projects/ganeshapool.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html", "CSS", "JavaScript", "JQuery"],
+    "demo": "https://www.ganeshapools.com/",
+    "source": "https://github.com/daf04/portfolio-main/"
+  },
+  {
+    "title": "Teacher Absent App",
+    "imageSrc": "projects/absensismk.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["PHP", "CSS", "JavaScript"],
+    "demo": "http://absensigurusmkplusblm.my.id/",
+    "source": "https://github.com/daf04/app-absensi-qrcode"
+  },
+  {
+    "title": "Uchiha Restaurant",
+    "imageSrc": "projects/uchiharestaurant.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://daf04.github.io/Restaurantly/",
+    "source": "https://github.com/daf04/Restaurantly"
+  }
+]
