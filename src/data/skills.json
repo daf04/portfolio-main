@@ -52,14 +52,6 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
-    "title": "GraphQL",
-    "imageSrc": "skills/graphql.png"
-  },
-  {
-    "title": "Oracle RDBMS",
-    "imageSrc": "skills/oracle.png"
-  },
-  {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
   }

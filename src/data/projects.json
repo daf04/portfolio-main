@@ -3,9 +3,9 @@
     "title": "Ganesha Pool",
     "imageSrc": "projects/ganeshapool.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["Html", "CSS", "JavaScript", "JQuery"],
+    "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://www.ganeshapools.com/",
-    "source": "https://github.com/daf04/portfolio-main/"
+    "source": "https://github.com/daf04/"
   },
   {
     "title": "Teacher Absent App",
@@ -22,5 +22,13 @@
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://daf04.github.io/Restaurantly/",
     "source": "https://github.com/daf04/Restaurantly"
+  },
+  {
+    "title": "Space Ship",
+    "imageSrc": "projects/space-ship.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Next.Js", "TailwindCSS"],
+    "demo": "https://space-ship-website.vercel.app/",
+    "source": "https://github.com/daf04/space-ship"
   }
 ]
