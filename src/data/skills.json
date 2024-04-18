@@ -40,14 +40,6 @@
     "imageSrc": "skills/flutter.png"
   },
   {
-    "title": "Xampp",
-    "imageSrc": "skills/xampp.png"
-  },
-  {
-    "title": "PostgreSQL",
-    "imageSrc": "skills/postgresql.png"
-  },
-  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },

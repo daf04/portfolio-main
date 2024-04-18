@@ -2,7 +2,7 @@
 
 .container {
   color: var(--color-text);
-  margin-top: 120px;
+  margin-top: 100px;
   background-color: var(--color-secondary);
   display: flex;
   flex-direction: row;
@@ -13,13 +13,13 @@
 }
 
 .text h2 {
-  font-size: 80px;
+  font-size: 70px;
   font-weight: 700;
   letter-spacing: 4px;
 }
 
 .text p {
-  font-size: 40px;
+  font-size: 32px;
   font-weight: 400;
   letter-spacing: 2px;
 }
@@ -29,13 +29,13 @@
   flex-direction: column;
   align-items: flex-start;
   list-style: none;
-  gap: 26px;
+  gap: 10px;
 }
 
 .link {
   display: flex;
   align-items: center;
-  gap: 25px;
+  gap: 20px;
 }
 
 .link a {

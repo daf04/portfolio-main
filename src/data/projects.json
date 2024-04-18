@@ -15,6 +15,38 @@
     "demo": "http://absensigurusmkplusblm.my.id/",
     "source": "https://github.com/daf04/app-absensi-qrcode"
   },
+    {
+    "title": "MERN E-Commerce",
+    "imageSrc": "projects/mern-store.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Mongo DB", "Express.Js", "React.Js", "Node.Js"],
+    "demo": "https://mern-store-gold.vercel.app/",
+    "source": "https://github.com/daf04/mern-ecommerce"
+  },
+  {
+    "title": "Salinaka E-Commerce",
+    "imageSrc": "projects/salinaka-ecommerce.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React.Js", "Redux", "Firebase","SASS"],
+    "demo": "https://salinaka-ecommerce.web.app/",
+    "source": "https://github.com/daf04/salinaka-ecommerce"
+  },
+  {
+    "title": "Space Ship",
+    "imageSrc": "projects/space-ship.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Next.Js", "TailwindCSS"],
+    "demo": "https://space-ship-website.vercel.app/",
+    "source": "https://github.com/daf04/space-ship"
+  },
+  {
+    "title": "Dynamic iPhone 15 Pro",
+    "imageSrc": "projects/iphone.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React.Js", "Three.Js", "GSAP", "TailwindCSS"],
+    "demo": "https://iphone-doc.vercel.app/",
+    "source": "https://github.com/daf04/iphone15-main"
+  },
   {
     "title": "Uchiha Restaurant",
     "imageSrc": "projects/uchiharestaurant.png",
@@ -24,11 +56,11 @@
     "source": "https://github.com/daf04/Restaurantly"
   },
   {
-    "title": "Space Ship",
-    "imageSrc": "projects/space-ship.png",
+    "title": "IP Tracker Geolocation",
+    "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["Next.Js", "TailwindCSS"],
-    "demo": "https://space-ship-website.vercel.app/",
-    "source": "https://github.com/daf04/space-ship"
+    "skills": ["Node.Js", "Java", "Objective-C"],
+    "demo": "https://cordova.apache.org/",
+    "source": "https://github.com/daf04/ip_tracker-geolocation"
   }
 ]

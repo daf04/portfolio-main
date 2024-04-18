@@ -10,7 +10,8 @@ export const Hero = () => {
         <h1 className={styles.title}>Hi,</h1>
         <p className={styles.titles}>I'm Aldrich Daffa Zalfansyah</p>
         <p className={styles.description}>
-          I'm a Junior Front End Developer with experience using HTML, CSS, and React.Js to develop a company profile website. 
+          I'm a web developer with 2 years of experience with Front End to develop, test, and monitor company websites and applications. 
+          <p>Have worked on several web and application projects to improve efficiency and data management.</p>
           <p>I can also use Back End Development to share data between different applications.</p> 
           <p>Reach out if you'd like to learn more!</p>
         </p>
