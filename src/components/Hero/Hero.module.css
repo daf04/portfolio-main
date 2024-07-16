@@ -36,7 +36,7 @@
 .titles {
   font-size: 48px;
   font-weight: 800;
-  margin-bottom: 27px;
+  margin-bottom: 25px;
   font-family: var(--font-roboto);
   background: linear-gradient(90deg,
       rgba(255, 255, 255, 1) 70%,
@@ -46,9 +46,9 @@
 }
 
 .description {
-  font-size: 20px;
+  font-size: 17px;
   font-family: var(--font-roboto);
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   align-items: center;
   justify-content: space-between;
 }

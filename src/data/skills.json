@@ -16,6 +16,10 @@
     "imageSrc": "skills/node.png"
   },
   {
+    "title": "Next",
+    "imageSrc": "skills/nextjs.png"
+  },
+  {
     "title": "PHP",
     "imageSrc": "skills/php.png"
   },
@@ -40,11 +44,19 @@
     "imageSrc": "skills/flutter.png"
   },
   {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
   },
   {
     "title": "Figma",
     "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Microsoft",
+    "imageSrc": "skills/microsoftoffice.png"
   }
 ]

@@ -10,9 +10,10 @@ export const Hero = () => {
         <h1 className={styles.title}>Hi,</h1>
         <p className={styles.titles}>I'm Aldrich Daffa Zalfansyah</p>
         <p className={styles.description}>
-          I'm a web developer with 2 years of experience with Front End to develop, test, and monitor company websites and applications. 
-          <p>Have worked on several web and application projects to improve efficiency and data management.</p>
-          <p>I can also use Back End Development to share data between different applications.</p> 
+          I am a web developer with 2 years experience with Front End to develop, test, maintain and monitor corporate websites and applications. 
+          <p>Has worked on several web and application projects to increase the efficiency of recovering errors on a website.</p>
+          <p>I can also use Back End Development in creating databases and sharing data between different applications.</p> 
+          <br></br>
           <p>Reach out if you'd like to learn more!</p>
         </p>
         <a href="mailto:aldrichdaffa0401@gmail.com" className={styles.contactBtn}>

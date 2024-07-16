@@ -14,34 +14,33 @@
     "status": "Contract",
     "startDate": "Feb, 2021",
     "endDate": "Oct, 2021",
-    "experiences": ["Supervise the receipt and processing of incoming stock, select orders from warehouse stock and manage them.", "Organize and ensure the goods distribution process runs smoothly."],
+    "experiences": ["Receive and process shipping data from customer, such as name, address, item type, weight and cost", "Print a shipping label and attach it to the package to be sent.", "Input shipping data system and ensure data accuracy and completeness."],
     "imageSrc": "history/jntLogo.png"
   },
   {
-    "role": "Production Operator",
+    "role": "Production and Maintenance Operator",
     "organisation": "PT. Paragon Technology And Innovation",
     "status": "Daily Worker",
     "startDate": "Nov, 2022",
     "endDate": "Jan, 2023",
     "experiences": [
-      "Operate equipment or machines to assist in the manufacturing, assembly, packaging, and other steps in the production line."
-    ],
+      "Operate equipment or machines to assist in the manufacturing, assembly, packaging, and other steps in the production line.", "Routine maintenance of manufacturing and packing machines to always provide good quality."],
     "imageSrc": "history/paragonLogo.png"
   },
   {
     "role": "Web Developer",
-    "organisation": "CV. Aquarias",
+    "organisation": "CV. Aquarias Pools",
     "status": "Part Time",
     "startDate": "Mar, 2022",
     "endDate": "Present",
-    "experiences": ["Worked on Control Panel.", "Development and maintenance of company profile websites."],
+    "experiences": ["Designing the visual appearance and developing a company profile website.", "Carrying out testing on websites that have been developed.", "Debugging website code and carrying out routine maintenance to avoid errors."],
     "imageSrc": "history/aquariasLogo.png"
   },
   {
     "role": "Programmer",
-    "organisation": "Dinas Komunikasi Informasi Dan Statistika",
+    "organisation": "Balai Kota DKI Jakarta",
     "status": "Contract",
-    "startDate": "Jul, 2023",
+    "startDate": "Sept, 2023",
     "endDate": "Present",
     "experiences": [
       "Create and design applications from start (concept) to completion according to needs and requests.", "Unifying databases in the framework of one data, and managing the use of data.", "Reporting work achievements at any time or providing a monitoring system for progress and work achievements based on issues or applications (project management system)."
